@@ -1,10 +1,12 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, I'm Vaibhav Pawar
+#### Aspiring To Become a Full-Stack Web Developer !!!
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I Love To Develop Websites and JavaScript is my favourite Scripting Langauge.
+I Love To Solve DSA Problems.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
+Skills: JAVA / REACT / JS / HTML / CSS / C / MONGODB / NODEJS
 
 - 🔭 I’m currently working on this page. 
 
