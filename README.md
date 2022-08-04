@@ -6,7 +6,8 @@ I Love To Develop Websites and JavaScript is my favourite Scripting Langauge.
 I Love To Solve DSA Problems.
 
 
-Skills: JAVA / REACT / JS / HTML / CSS / C / MONGODB / NODEJS
+Skills: 
+JAVA / REACT / JS / HTML / CSS / C / MONGODB / NODEJS
 
 - 🔭 I’m currently working on this page. 
 
