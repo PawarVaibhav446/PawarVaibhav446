@@ -18,6 +18,3 @@ JAVA / REACT / JS / HTML / CSS / C / MONGODB / NODEJS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PawarVaibhav446&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawarVaibhav446)  
-
-![Profile views](https://gpvc.arturio.dev/PawarVaibhav446)  
