@@ -21,7 +21,7 @@ const vaibhav = {
         frontEnd: {
             js: ["React"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql", "postgres"],
     },
 
     currentFocus: "Learning Spring Framework",
