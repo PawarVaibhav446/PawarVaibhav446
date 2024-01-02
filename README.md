@@ -16,7 +16,7 @@ const vaibhav = {
     technologies: {
         backEnd: {
             js: ["Node"],
-            java: ["Spring"]
+            java: ["Spring Core", "Spring JDBC"]
         },
         frontEnd: {
             js: ["React"]
