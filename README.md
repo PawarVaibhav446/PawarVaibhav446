@@ -15,8 +15,7 @@ const vaibhav = {
     askMeAbout: ["web dev", "tech", "DSA"],
     technologies: {
         backEnd: {
-            js: ["Node"],
-            java: ["Spring Core", "Spring JDBC"]
+            java: ["Spring", "SpringBoot"]
         },
         frontEnd: {
             js: ["React"]
@@ -24,7 +23,7 @@ const vaibhav = {
         databases: ["mongo", "MySql", "postgres"],
     },
 
-    currentFocus: "Learning Spring Framework",
+    currentFocus: "Learning SpringBoot",
     funFact: "Just Write code"
 };
 ```
